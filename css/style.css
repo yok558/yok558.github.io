@@ -20,6 +20,7 @@ a:active, a:visited, a:focus {
 	color: #fff;
 	height: 100vh;
 	background: #000 url(../img/main-bg.jpg) center center no-repeat;
+	background-size:cover;
 }
 .main-overlay {
 	position: absolute;
@@ -95,10 +96,11 @@ a:active, a:visited, a:focus {
 	text-decoration: none;
 	border-bottom: 1px dotted #333;
 }
-/*Секция - подвал*/
+
 .footer {
 	background-color: #646464;
 	background: #000 url(../img/avilov-footer-img2.jpg) center center no-repeat;
+	background-size:cover;
 	color: #fff;
 	text-align: center;
 	padding: 3rem 0;
